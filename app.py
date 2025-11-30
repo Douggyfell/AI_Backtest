@@ -103,15 +103,23 @@ st.markdown(
         color: #ff914d;
     }
     .headline {
-        font-size: 32px;
-        font-weight: 700;
-        color: #cccccc;
-        letter-spacing: 0.06em;
+        font-size: 40px;
+        font-weight: 900;
+        color: #ff914d !important;
+        text-align: center;
+        letter-spacing: 1.5px;
+        margin-top: 10px;
+        margin-bottom: 5px;
         text-transform: uppercase;
+        font-family: "Menlo", "Consolas", monospace;
+        text-shadow: 0 0 10px rgba(255,145,77,0.6);
     }
     .subheadline {
-        font-size: 14px;
-        color: #cccccc;
+        font-size: 16px;
+        text-align: center;
+        color: #cccccc !important;
+        margin-bottom: 25px;
+        font-family: "Menlo", "Consolas", monospace;
     }
     .stTabs [data-baseweb="tab-list"] {
         gap: 8px;
