@@ -105,7 +105,7 @@ st.markdown(
     .headline {
         font-size: 32px;
         font-weight: 700;
-        color: #f5b400;
+        color: #ff914d;
         letter-spacing: 0.06em;
         text-transform: uppercase;
     }
