@@ -108,7 +108,7 @@ st.markdown(
         color: #ff914d !important;
         text-align: center;
         letter-spacing: 1.5px;
-        margin-top: 10px;
+        margin-top: 60px;
         margin-bottom: 5px;
         text-transform: uppercase;
         font-family: "Menlo", "Consolas", monospace;
