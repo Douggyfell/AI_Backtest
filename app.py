@@ -139,13 +139,11 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-# Use a dark style for matplotlib as a base
 plt.style.use("dark_background")
 
-# ---------- HEADER ----------
 
 st.markdown(
-    '<div class="headline">AI-POWERED TRADING STRATEGY BACKTESTER</div>',
+    '<div class="headline">AI TRADING</div>',
     unsafe_allow_html=True,
 )
 st.markdown(
