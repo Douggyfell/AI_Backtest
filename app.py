@@ -100,7 +100,7 @@ st.markdown(
     }
     h1, h2, h3, h4 {
         font-family: "Menlo", "Consolas", monospace;
-        color: #f5f5f5;
+        color: #ff914d;
     }
     .headline {
         font-size: 32px;
